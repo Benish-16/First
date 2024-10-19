@@ -1,0 +1,43 @@
+body{
+    height:100vh;
+    font-size:12px;
+    overflow:hidden;
+    line-height:1.2;
+    margin:0;
+    padding:0;
+    word-spacing:5px;
+    
+}
+.container{
+    display:flex;
+    
+}
+hr{
+    flex-grow:1;
+}
+.box1{
+width:1040px;
+}
+
+#p1{
+    margin-top:60px;
+    margin-left:600px;
+    font-size:12px;
+    height:40px;
+    line-height:0.0;
+}
+#p2{
+  
+    margin-left:140px;
+   
+}
+#s1{
+    width:150px;
+     display:inline-block;
+}
+#s2{
+    width:40px;
+     display:inline-block;
+}
+
+
